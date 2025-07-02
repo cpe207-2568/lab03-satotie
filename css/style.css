@@ -1,0 +1,13 @@
+.center-header{
+    text-align: center;
+    color: rgb(7, 111, 247);
+    font-style: italic;
+}
+
+
+
+div{
+    display: block;
+    unicode-bidi: isolate;
+}
+
